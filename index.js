@@ -1,8 +1,4 @@
 module.exports = {
-    "branches": [
-        "main",
-        {name: 'develop', prerelease: 'beta'}
-    ],
     "verifyConditions": ['@semantic-release/changelog', '@semantic-release/npm', '@semantic-release/git'],
     "plugins": [
         '@semantic-release/commit-analyzer',
