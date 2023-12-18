@@ -8,6 +8,10 @@
     "semantic-release": "semantic-release",
     "semantic-release:dry-run": "semantic-release --dry-run"
   },
+  "keywords": [
+    "config",
+    "semantic-release"
+  ],
   "author": "Shane Froebel",
   "bugs": {
     "url": "https://github.com/Bugs5382/project-standard-semantic-release/issues"
