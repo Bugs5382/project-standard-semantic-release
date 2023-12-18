@@ -1,3 +1,15 @@
+# [1.4.0](https://github.com/Bugs5382/project-standard-semantic-release/compare/v1.3.2...v1.4.0) (2023-12-18)
+
+
+### Bug Fixes
+
+* added branches ([1bba610](https://github.com/Bugs5382/project-standard-semantic-release/commit/1bba610ef2efc3898e25cde5ff989d21bc011b1b))
+
+
+### Features
+
+* removed branches ([446dca9](https://github.com/Bugs5382/project-standard-semantic-release/commit/446dca90e8bc186b780c92c033e21113cff45ed6))
+
 ## [1.3.2](https://github.com/Bugs5382/project-standard-semantic-release/compare/v1.3.1...v1.3.2) (2023-12-18)
 
 
