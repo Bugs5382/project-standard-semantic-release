@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/Bugs5382/project-standard-semantic-release/compare/v1.3.1...v1.3.2) (2023-12-18)
+
+
+### Bug Fixes
+
+* added access public ([c4c723e](https://github.com/Bugs5382/project-standard-semantic-release/commit/c4c723e5b064ba303eec10999843a54775165d10))
+
 ## [1.3.1](https://github.com/Bugs5382/project-standard-semantic-release/compare/v1.3.0...v1.3.1) (2023-12-18)
 
 
