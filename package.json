@@ -1,5 +1,5 @@
 {
-  "name": "@bugs5382/semantic-release-config",
+  "name": "@the-rabbit-hole/semantic-release-config",
   "version": "0.0.0-development",
   "description": "A simple NPM packages released under my user-scope that standardizes projects semantic-release config., so that they are all the same.",
   "main": "index.js",
