@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Bugs5382/project-standard-semantic-release/compare/v1.2.0...v1.3.0) (2023-12-18)
+
+
+### Features
+
+* update scope ([0042557](https://github.com/Bugs5382/project-standard-semantic-release/commit/0042557556727ab6c5ea4ab50485d6778186a918))
+
 # [1.2.0](https://github.com/Bugs5382/project-standard-semantic-release/compare/v1.1.0...v1.2.0) (2023-12-18)
 
 
