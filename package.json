@@ -1,0 +1,28 @@
+{
+  "name": "@bugs5382/semantic-release-config",
+  "version": "0.0.0-development",
+  "description": "A simple NPM packages released under my user-scope that standardizes projects semantic-release config., so that they are all the same.",
+  "main": "index.js",
+  "scripts": {
+    "prepublishOnly": "npm pack",
+    "semantic-release": "semantic-release",
+    "semantic-release:dry-run": "semantic-release --dry-run"
+  },
+  "author": "Shane Froebel",
+  "bugs": {
+    "url": "https://github.com/Bugs5382/project-standard-semantic-release/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bugs5382/project-standard-semantic-release.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/commit-analyzer": "^11.1.0",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^9.2.5",
+    "@semantic-release/release-notes-generator": "^12.1.0",
+    "semantic-release": "^22.0.12"
+  }
+}
