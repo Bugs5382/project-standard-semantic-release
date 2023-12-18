@@ -17,7 +17,8 @@
     "url": "git+https://github.com/Bugs5382/project-standard-semantic-release.git"
   },
   "publishConfig": {
-    "provenance": true
+    "provenance": true,
+    "access": "public"
   },
   "license": "MIT",
   "devDependencies": {
