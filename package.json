@@ -16,6 +16,9 @@
     "type": "git",
     "url": "git+https://github.com/Bugs5382/project-standard-semantic-release.git"
   },
+  "publishConfig": {
+    "provenance": true
+  },
   "license": "MIT",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
