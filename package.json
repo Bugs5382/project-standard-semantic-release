@@ -1,12 +1,14 @@
 {
   "name": "@the-rabbit-hole/semantic-release-config",
   "version": "1.4.0",
-  "description": "A simple NPM packages released under my user-scope that standardizes projects semantic-release config., so that they are all the same.",
+  "description": "A simple NPM packages released under my org-scope that standardizes projects semantic-release config., so that they are all the same.",
   "main": "index.js",
   "scripts": {
     "prepublishOnly": "npm pack",
     "semantic-release": "semantic-release",
-    "semantic-release:dry-run": "semantic-release --dry-run"
+    "semantic-release:dry-run": "semantic-release --dry-run",
+    "update": "npx npm-check-updates -u && npm run update:post-update",
+    "update:post-update": "npm install"
   },
   "keywords": [
     "config",
@@ -29,8 +31,8 @@
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^11.1.0",
     "@semantic-release/git": "^10.0.1",
-    "@semantic-release/github": "^9.2.5",
+    "@semantic-release/github": "^9.2.6",
     "@semantic-release/release-notes-generator": "^12.1.0",
-    "semantic-release": "^22.0.12"
+    "semantic-release": "^23.0.0"
   }
 }
