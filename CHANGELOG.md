@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/Bugs5382/project-standard-semantic-release/compare/v1.4.0...v1.5.0) (2024-01-15)
+
+
+### Features
+
+* updated semantic-release v23 ([1c89977](https://github.com/Bugs5382/project-standard-semantic-release/commit/1c89977201885801f78aab4bbe0ca99dc43c21fb))
+
 # [1.4.0](https://github.com/Bugs5382/project-standard-semantic-release/compare/v1.3.2...v1.4.0) (2023-12-18)
 
 

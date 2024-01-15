@@ -1,6 +1,6 @@
 {
   "name": "@the-rabbit-hole/semantic-release-config",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "A simple NPM packages released under my org-scope that standardizes projects semantic-release config., so that they are all the same.",
   "main": "index.js",
   "scripts": {
